@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
+  "name": "socialmediaproject",
+=======
   "name": "day02",
+>>>>>>> c5ae6eb0337d74a27e1cd6909567ddab502e1d80
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,8 +15,21 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+<<<<<<< HEAD
+    "@google/genai": "^1.12.0",
+    "bcrypt": "^6.0.0",
+    "bcryptjs": "^3.0.2",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "js": "^0.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.17.0",
+    "multer": "^2.0.2"
+=======
     "dotenv": "^17.2.1",
     "express": "^5.1.0",
     "mongoose": "^8.17.0"
+>>>>>>> c5ae6eb0337d74a27e1cd6909567ddab502e1d80
   }
 }
